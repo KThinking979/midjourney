@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/midjourney/static/css/main.f51d5156.css",
-    "main.js": "/midjourney/static/js/main.0ac05082.js",
-    "static/js/67.626cdaec.chunk.js": "/midjourney/static/js/67.626cdaec.chunk.js",
+    "main.js": "/midjourney/static/js/main.31af1560.js",
+    "static/js/67.6465647c.chunk.js": "/midjourney/static/js/67.6465647c.chunk.js",
     "static/js/290.8013c2f8.chunk.js": "/midjourney/static/js/290.8013c2f8.chunk.js",
-    "static/js/916.d6657c45.chunk.js": "/midjourney/static/js/916.d6657c45.chunk.js",
+    "static/js/916.28294a60.chunk.js": "/midjourney/static/js/916.28294a60.chunk.js",
     "static/js/137.6edd48ab.chunk.js": "/midjourney/static/js/137.6edd48ab.chunk.js",
     "static/js/909.5daaca7d.chunk.js": "/midjourney/static/js/909.5daaca7d.chunk.js",
     "static/js/598.4d463987.chunk.js": "/midjourney/static/js/598.4d463987.chunk.js",
@@ -46,17 +46,17 @@
     "static/js/285.57cd6073.chunk.js": "/midjourney/static/js/285.57cd6073.chunk.js",
     "static/js/187.96e759fc.chunk.js": "/midjourney/static/js/187.96e759fc.chunk.js",
     "static/js/278.df7a68fa.chunk.js": "/midjourney/static/js/278.df7a68fa.chunk.js",
-    "static/js/891.8208d8cb.chunk.js": "/midjourney/static/js/891.8208d8cb.chunk.js",
+    "static/js/347.85540a7c.chunk.js": "/midjourney/static/js/347.85540a7c.chunk.js",
     "static/js/275.8909e134.chunk.js": "/midjourney/static/js/275.8909e134.chunk.js",
     "static/js/675.12c770e2.chunk.js": "/midjourney/static/js/675.12c770e2.chunk.js",
     "static/js/712.375faa0c.chunk.js": "/midjourney/static/js/712.375faa0c.chunk.js",
-    "static/js/456.213c1884.chunk.js": "/midjourney/static/js/456.213c1884.chunk.js",
+    "static/js/456.6e2a5c4d.chunk.js": "/midjourney/static/js/456.6e2a5c4d.chunk.js",
     "static/media/logo.png": "/midjourney/static/media/logo.c58c54b9bbe11d1dceda.png",
     "static/media/coin.png": "/midjourney/static/media/coin.84cf06a861a4cfb9ad42.png",
     "index.html": "/midjourney/index.html"
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.0ac05082.js"
+    "static/js/main.31af1560.js"
   ]
 }
