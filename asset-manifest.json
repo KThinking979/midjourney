@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/midjourney/static/css/main.f51d5156.css",
-    "main.js": "/midjourney/static/js/main.55d3f243.js",
+    "main.js": "/midjourney/static/js/main.21b18095.js",
     "static/js/8067.7796ffd4.chunk.js": "/midjourney/static/js/8067.7796ffd4.chunk.js",
     "static/js/7909.99b7fab9.chunk.js": "/midjourney/static/js/7909.99b7fab9.chunk.js",
     "static/js/4916.30261843.chunk.js": "/midjourney/static/js/4916.30261843.chunk.js",
@@ -19,9 +19,9 @@
     "static/js/1274.1f393c44.chunk.js": "/midjourney/static/js/1274.1f393c44.chunk.js",
     "static/js/7647.710c5771.chunk.js": "/midjourney/static/js/7647.710c5771.chunk.js",
     "static/js/7630.6c601068.chunk.js": "/midjourney/static/js/7630.6c601068.chunk.js",
-    "static/js/176.c1964730.chunk.js": "/midjourney/static/js/176.c1964730.chunk.js",
+    "static/js/176.7a3d1888.chunk.js": "/midjourney/static/js/176.7a3d1888.chunk.js",
     "static/js/8146.b9c4406f.chunk.js": "/midjourney/static/js/8146.b9c4406f.chunk.js",
-    "static/js/608.691ce4c0.chunk.js": "/midjourney/static/js/608.691ce4c0.chunk.js",
+    "static/js/608.50ec505e.chunk.js": "/midjourney/static/js/608.50ec505e.chunk.js",
     "static/js/5573.55c0e5a2.chunk.js": "/midjourney/static/js/5573.55c0e5a2.chunk.js",
     "static/js/897.c91e1e86.chunk.js": "/midjourney/static/js/897.c91e1e86.chunk.js",
     "static/js/8206.0c10f01e.chunk.js": "/midjourney/static/js/8206.0c10f01e.chunk.js",
@@ -51,13 +51,13 @@
     "static/js/9187.2411183e.chunk.js": "/midjourney/static/js/9187.2411183e.chunk.js",
     "static/js/1413.bf4c17e5.chunk.js": "/midjourney/static/js/1413.bf4c17e5.chunk.js",
     "static/js/6675.37857791.chunk.js": "/midjourney/static/js/6675.37857791.chunk.js",
-    "static/js/712.f563dd63.chunk.js": "/midjourney/static/js/712.f563dd63.chunk.js",
+    "static/js/712.dc29e65f.chunk.js": "/midjourney/static/js/712.dc29e65f.chunk.js",
     "static/media/logo.png": "/midjourney/static/media/logo.c58c54b9bbe11d1dceda.png",
     "static/media/coin.png": "/midjourney/static/media/coin.84cf06a861a4cfb9ad42.png",
     "index.html": "/midjourney/index.html"
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.55d3f243.js"
+    "static/js/main.21b18095.js"
   ]
 }
