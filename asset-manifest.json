@@ -1,10 +1,10 @@
 {
   "files": {
     "main.css": "/midjourney/static/css/main.f51d5156.css",
-    "main.js": "/midjourney/static/js/main.6096bff3.js",
+    "main.js": "/midjourney/static/js/main.4c6e181c.js",
     "static/js/8067.412422c4.chunk.js": "/midjourney/static/js/8067.412422c4.chunk.js",
     "static/js/7909.99b7fab9.chunk.js": "/midjourney/static/js/7909.99b7fab9.chunk.js",
-    "static/js/4916.5240047d.chunk.js": "/midjourney/static/js/4916.5240047d.chunk.js",
+    "static/js/4916.f70bf718.chunk.js": "/midjourney/static/js/4916.f70bf718.chunk.js",
     "static/js/6187.f36f8c55.chunk.js": "/midjourney/static/js/6187.f36f8c55.chunk.js",
     "static/js/5978.ba4fb494.chunk.js": "/midjourney/static/js/5978.ba4fb494.chunk.js",
     "static/js/9598.afa7bbf6.chunk.js": "/midjourney/static/js/9598.afa7bbf6.chunk.js",
@@ -60,6 +60,6 @@
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.6096bff3.js"
+    "static/js/main.4c6e181c.js"
   ]
 }
