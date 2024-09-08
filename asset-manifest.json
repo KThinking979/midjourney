@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/midjourney/static/css/main.f51d5156.css",
-    "main.js": "/midjourney/static/js/main.bad4c21d.js",
+    "main.js": "/midjourney/static/js/main.b5bcb9f2.js",
     "static/js/8067.596db657.chunk.js": "/midjourney/static/js/8067.596db657.chunk.js",
     "static/js/7909.d6c16390.chunk.js": "/midjourney/static/js/7909.d6c16390.chunk.js",
     "static/js/4916.e187a347.chunk.js": "/midjourney/static/js/4916.e187a347.chunk.js",
@@ -19,8 +19,8 @@
     "static/js/825.36713448.chunk.js": "/midjourney/static/js/825.36713448.chunk.js",
     "static/js/7647.b92db339.chunk.js": "/midjourney/static/js/7647.b92db339.chunk.js",
     "static/js/7630.631d60bc.chunk.js": "/midjourney/static/js/7630.631d60bc.chunk.js",
-    "static/js/176.e084521f.chunk.js": "/midjourney/static/js/176.e084521f.chunk.js",
-    "static/js/816.bc27da01.chunk.js": "/midjourney/static/js/816.bc27da01.chunk.js",
+    "static/js/176.19778638.chunk.js": "/midjourney/static/js/176.19778638.chunk.js",
+    "static/js/816.839b0b89.chunk.js": "/midjourney/static/js/816.839b0b89.chunk.js",
     "static/js/608.c43e7725.chunk.js": "/midjourney/static/js/608.c43e7725.chunk.js",
     "static/js/5573.ae14f85b.chunk.js": "/midjourney/static/js/5573.ae14f85b.chunk.js",
     "static/js/897.f136ed58.chunk.js": "/midjourney/static/js/897.f136ed58.chunk.js",
@@ -54,13 +54,13 @@
     "static/js/6924.e5b3a11f.chunk.js": "/midjourney/static/js/6924.e5b3a11f.chunk.js",
     "static/js/4756.cd7d3af5.chunk.js": "/midjourney/static/js/4756.cd7d3af5.chunk.js",
     "static/js/1673.0b923c85.chunk.js": "/midjourney/static/js/1673.0b923c85.chunk.js",
-    "static/js/712.bc003c19.chunk.js": "/midjourney/static/js/712.bc003c19.chunk.js",
+    "static/js/712.5d4cd532.chunk.js": "/midjourney/static/js/712.5d4cd532.chunk.js",
     "static/media/logo.png": "/midjourney/static/media/logo.c58c54b9bbe11d1dceda.png",
     "static/media/coin.png": "/midjourney/static/media/coin.84cf06a861a4cfb9ad42.png",
     "index.html": "/midjourney/index.html"
   },
   "entrypoints": [
     "static/css/main.f51d5156.css",
-    "static/js/main.bad4c21d.js"
+    "static/js/main.b5bcb9f2.js"
   ]
 }
